@@ -38,4 +38,4 @@ Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in nationa
 ## 🔹 Get in Touch
 - 🌐 [LinkedIn](https://www.linkedin.com) 
 
---
+
