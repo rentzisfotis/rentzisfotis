@@ -33,9 +33,4 @@ Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in nationa
 - 🌆 Smart-city applications with AI & IoT  
 - 🎓 Open-source tools/snippets for robotics education  
 
----
-
-## 🔹 Get in Touch
-- 🌐 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/φώτης-ρεντζής-1575a9387/?locale=en_US)) 
-
 
