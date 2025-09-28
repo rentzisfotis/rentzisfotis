@@ -1,19 +1,23 @@
 # Hi, I'm Fotis Rentzis 👋
 
-Electrical & Computer Engineer focused on **autonomous systems** (UAVs/UGVs), **performance optimization**, and **educational robotics**.  
+Electrical & Computer Engineer & **PhD Researcher** focused on **autonomous systems** (UAVs/UGVs), **performance optimization**, and **educational robotics**.  
 Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in national & international robotics competitions.
 
 ---
 
 ## 🔹 About Me
 - 🎓 Graduate of Electrical & Computer Engineering, University of Peloponnese  
+- 🎓 **PhD Candidate**: *Performance optimization techniques (technological, energy, operational) for autonomous systems in unmanned vehicles UxV (UAVs & UGVs)*  
 - 🏅 WRO Hellas Gold • World Robot Olympiad 2019 participant • Multiple 1st places in national robotics (2016–2019)  
 - 🤝 Team captain at **Hephaestus** (university robotics & innovation group)  
-- 🧠 Research focus:  
-  - **Performance optimization techniques** (technological, energy, operational) for autonomous UxVs (UAVs & UGVs)  
-  - Cyber-physical systems & AI in education  
-- 💻 Tech stack: Python • C/C++ • MATLAB • Sensors • Embedded/robotics stacks  
 - 🌐 English: C2 (Michigan)
+
+---
+
+## 🔹 Research Focus
+- **Performance optimization techniques** (technological, energy, operational) for autonomous UxVs (UAVs & UGVs)  
+- Cyber-physical systems & AI in education  
+- Smart cities & IoT integration  
 
 ---
 
@@ -32,6 +36,6 @@ Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in nationa
 ---
 
 ## 🔹 Get in Touch
-- 🌐 [LinkedIn](https://www.linkedin.com) <!-- βάλε το δικό σου προφίλ εδώ -->
+- 🌐 [LinkedIn](https://www.linkedin.com) 
 
----
+--
