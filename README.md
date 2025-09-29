@@ -35,8 +35,7 @@ Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in nationa
 
 ---
 
-## 🔹 Get in Touch
-- ✉️ fotisrentzis17@gmail.com  
+## 🔹 Get in Touch 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fotis-rentzis)
 
 ---
