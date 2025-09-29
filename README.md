@@ -33,4 +33,10 @@ Gold medalist in WRO Hellas (Entrepreneurship – Open). Judge/mentor in nationa
 - 🌆 Smart-city applications with AI & IoT  
 - 🎓 Open-source tools/snippets for robotics education  
 
+---
 
+## 🔹 Get in Touch
+- ✉️ fotisrentzis17@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fotis-rentzis)
+
+---
